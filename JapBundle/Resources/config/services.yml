@@ -1,0 +1,4 @@
+services:
+#    pepjudojap.example:
+#        class: pep\judo\japBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

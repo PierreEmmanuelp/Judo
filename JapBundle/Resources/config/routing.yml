@@ -1,0 +1,3 @@
+pepjudojap_homepage:
+    path:     /
+    defaults: { _controller: PepJudoJapBundle:Default:index }
